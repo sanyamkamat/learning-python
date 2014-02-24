@@ -33,6 +33,3 @@ print things
 # Note: In Dictionary we search for the keys
 if 'name' is things:
 	print ("name key is present")
-
-
-
